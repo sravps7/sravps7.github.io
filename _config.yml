@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Sravan Patchala
 tagline:          ''
 description:      'An electrical Engineering Undergraduate at IIT Bombay'
-url:              http://hyde.getpoole.com
+url:              https://sravps7.github.io/
 baseurl:          /
 
 author:
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/sravps7/sravps7.github.io
