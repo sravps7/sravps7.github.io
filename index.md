@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 	
@@ -14,6 +14,9 @@ Since you are curious to know about me, here we go.
 
 I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology, Bombay. I am pursuing a Dual Degree (B.Tech + M.Tech) in the department with specialisation in Communication and Signal Processing.
  
-I am very interested in learning new stuff related to the engineering.
+I am very interested in learning new stuff related to the engineering. I have particular interest in Robotics.
+
+
+
 Thanks for reading!
 
