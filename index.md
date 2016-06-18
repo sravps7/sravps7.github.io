@@ -18,7 +18,19 @@ I am very interested in learning new stuff related to the engineering. I have pa
 
 ### Projects
 
-I have done quite a few projects in my stay at IIT Bombay. Have a look at the projects section and feel free to give me your feedback on them
+I have done quite a few projects in my stay at IIT Bombay. Have a look at the projects section and feel free to give me your feedback on them.
+
+### Contact Me
+
+Liked my website? Have some suggestions to give? 
+
+Or want to get in touch?
+
+Here are various ways to reach me:
+
+* Google
+* Facebook
+
 
 Thanks for reading!
 
