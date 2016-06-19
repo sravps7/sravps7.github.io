@@ -26,10 +26,7 @@ Liked my website? Have some suggestions to give?
 
 Or want to get in touch?
 
-Here are various ways to reach me:
-
-* Google
-* Facebook
+Head into the Contact Me section to reach me! 
 
 
 Thanks for reading!
