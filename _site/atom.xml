@@ -4,13 +4,26 @@
  <title>Sravan Patchala</title>
  <link href="https://sravps7.github.io//atom.xml" rel="self"/>
  <link href="https://sravps7.github.io//"/>
- <updated>2016-06-19T20:44:07+05:30</updated>
+ <updated>2016-06-21T21:33:15+05:30</updated>
  <id>https://sravps7.github.io/</id>
  <author>
    <name>Sravan Patchala</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>My First Blog Post</title>
+   <link href="https://sravps7.github.io//2016/06/21/my-first-blog-post/"/>
+   <updated>2016-06-21T00:00:00+05:30</updated>
+   <id>https://sravps7.github.io//2016/06/21/my-first-blog-post</id>
+   <content type="html">&lt;p&gt;Okay, lets keep this short.&lt;/p&gt;
+
+&lt;p&gt;After almost two years of thinking that I would start a blo, finally on this day, I finally write my first blog post. I am excited and hope to continue with this blog.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned guys!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Hyde</title>
@@ -200,23 +213,6 @@
 &lt;hr&gt;
 
 &lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>What's Jekyll?</title>
-   <link href="https://sravps7.github.io//2012/02/06/whats-jekyll/"/>
-   <updated>2012-02-06T00:00:00+05:30</updated>
-   <id>https://sravps7.github.io//2012/02/06/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It&amp;#39;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
-
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

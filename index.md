@@ -13,7 +13,7 @@ Since you are curious to know about me, here we go.
 
 I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology-Bombay, India. I am pursuing a Dual Degree (B.Tech + M.Tech) in the Electrical department with specialisation in Communication and Signal Processing.
  
-I am very interested in learning new things related to engineering. I have particular interest in Robotics. I have been associated with the [Robotics Club of IIT Bombay]( https://stab-iitb.org/robotics-club/ ) right from my freshman year. I am currently now the Manager of the Club. 
+I am very interested in learning new things related to engineering. I have particular interest in Robotics. I have been associated with the [Robotics Club of IIT Bombay]( https://stab-iitb.org/robotics-club/ ) right from my freshman year. I am currently the Manager of the Club. 
 
 Apart from engineering and academics, I am very passionate about football as well. Also, I am an amateur violin player.
 
