@@ -4,14 +4,20 @@ title: Home
 ---
 	
 <p class="message">
-  Hey there! Nice to see you landing up on my website. Carry on and explore this!
+  Hey there! Nice to see you landing up on my website. Carry on and be my guest! I might brag a bit about myself. But trust me, I would not if I were not worthy.
 </p>
 
 ###  About Me
 
-Since you are curious to know about me, here we go.
+Hoping you are curious to know about me, here we go!
 
-I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology-Bombay, India. I am pursuing a Dual Degree (B.Tech + M.Tech) in the Electrical department with specialisation in Communication and Signal Processing.
+#### Who am I?
+
+This is a question which many people have successfully failed to answer. Here is my attempt at answering it. Please do not expect a spiritual answer.
+
+I am an engineering student staying in a relatively calm part of the busy city of Mumbai, India. I like to spend time with my close ones (that includes non-living things like my laptop). I highly beleive I am a creative person.
+
+Coming to my academic standing, I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology-Bombay, India. I am pursuing a Dual Degree (B.Tech + M.Tech) in the Electrical department with specialisation in Communication and Signal Processing.
  
 I am very interested in learning new things related to engineering. I have particular interest in Robotics. I have been associated with the [Robotics Club of IIT Bombay]( https://stab-iitb.org/robotics-club/ ) right from my freshman year. I am currently the Manager of the Club. 
 
