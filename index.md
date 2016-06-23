@@ -11,11 +11,7 @@ title: Home
 
 Hoping you are curious to know about me, here we go!
 
-#### Who am I?
-
-This is a question which many people have successfully failed to answer. Here is my attempt at answering it. Please do not expect a spiritual answer.
-
-I am an engineering student staying in a relatively calm part of the busy city of Mumbai, India. I like to spend time with my close ones (that includes non-living things like my laptop). I highly beleive I am a creative person.
+I am an engineering student staying in a relatively calm part of the busy city of Mumbai, India. I like to spend time with my close ones (that includes non-living things like my laptop).
 
 Coming to my academic standing, I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology-Bombay, India. I am pursuing a Dual Degree (B.Tech + M.Tech) in the Electrical department with specialisation in Communication and Signal Processing.
  
