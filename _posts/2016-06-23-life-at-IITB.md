@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Life at IIT-Bombay
+category: blog
 ---
 
 This is the most mainstream thing that any IITian could write about: *His/Her life at IIT-Bombay*. So just lets gets this written and done once and for all.

@@ -4,7 +4,7 @@
  <title>Sravan Patchala</title>
  <link href="https://sravps7.github.io//atom.xml" rel="self"/>
  <link href="https://sravps7.github.io//"/>
- <updated>2016-06-23T10:56:29+05:30</updated>
+ <updated>2016-06-23T14:09:24+05:30</updated>
  <id>https://sravps7.github.io/</id>
  <author>
    <name>Sravan Patchala</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Life at IIT-Bombay</title>
-   <link href="https://sravps7.github.io//2016/06/23/life-at-IITB/"/>
+   <link href="https://sravps7.github.io//blog/life-at-IITB"/>
    <updated>2016-06-23T00:00:00+05:30</updated>
-   <id>https://sravps7.github.io//2016/06/23/life-at-IITB</id>
+   <id>https://sravps7.github.io//blog/life-at-IITB</id>
    <content type="html">&lt;p&gt;This is the most mainstream thing that any IITian could write about: &lt;em&gt;His/Her life at IIT-Bombay&lt;/em&gt;. So just lets gets this written and done once and for all.&lt;/p&gt;
 
 &lt;p&gt;So, at the time of writing this post, I was sort of enjoying my summer vacations after completing my second year at the institute. Let me sum up my experience with this blog post.&lt;/p&gt;
@@ -33,9 +33,9 @@
  
  <entry>
    <title>My First Blog Post</title>
-   <link href="https://sravps7.github.io//2016/06/21/my-first-blog-post/"/>
+   <link href="https://sravps7.github.io//blog/my-first-blog-post"/>
    <updated>2016-06-21T00:00:00+05:30</updated>
-   <id>https://sravps7.github.io//2016/06/21/my-first-blog-post</id>
+   <id>https://sravps7.github.io//blog/my-first-blog-post</id>
    <content type="html">&lt;p&gt;Okay, lets keep this short.&lt;/p&gt;
 
 &lt;p&gt;After almost two years of thinking that I would start a blo, finally on this day, I finally write my first blog post. I am excited and hope to continue with this blog.&lt;/p&gt;
@@ -46,9 +46,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="https://sravps7.github.io//2012/02/07/example-content/"/>
+   <link href="https://sravps7.github.io//blog/example-content"/>
    <updated>2012-02-07T00:00:00+05:30</updated>
-   <id>https://sravps7.github.io//2012/02/07/example-content</id>
+   <id>https://sravps7.github.io//blog/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -188,6 +188,25 @@
 &lt;hr&gt;
 
 &lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+ 
+ <entry>
+   <title>Project 1</title>
+   <link href="https://sravps7.github.io//projects/project1.html"/>
+   <id>https://sravps7.github.io/</id>
+   <content type="html">&lt;p&gt;Hi &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project 2</title>
+   <link href="https://sravps7.github.io//projects/project2.html"/>
+   <id>https://sravps7.github.io/</id>
+   <content type="html">&lt;p&gt;Hi
+huuodsosfsobfupv&lt;/p&gt;
 </content>
  </entry>
  

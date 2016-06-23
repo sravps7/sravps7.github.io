@@ -367,6 +367,12 @@ tbody tr:nth-child(odd) th {
 .project-title {
   margin-top: 0;
 }
+.project-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
 /* Related posts */
 .related {
   padding-top: 2rem;
@@ -391,12 +397,7 @@ tbody tr:nth-child(odd) th {
 .related-posts li a:hover small {
   color: inherit;
 }
-
-.related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  border-top: 1px solid #eee;
-}
+  
 .related-projects {
   padding-left: 0;
   list-style: none;

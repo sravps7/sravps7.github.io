@@ -3,7 +3,13 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        /:categories/:title
+collections:
+  projects:       
+  permalink:      /:categories/:title
+  output:         True
+   
+
 
 # Setup
 title:            Sravan Patchala
@@ -11,7 +17,6 @@ tagline:          ''
 description:      'My personal webpage'
 url:              https://sravps7.github.io/
 baseurl:          /
-
 author:
   name:           'Sravan Patchala'
   url:            

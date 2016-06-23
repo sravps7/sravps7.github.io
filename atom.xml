@@ -25,4 +25,13 @@ layout: null
  </entry>
  {% endfor %}
 
+ {% for project in site.projects %}
+ <entry>
+   <title>{{ project.title }}</title>
+   <link href="{{ site.url }}{{ project.url }}"/>
+   <id>{{ site.url }}{{ project.id }}</id>
+   <content type="html">{{ project.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
 </feed>
