@@ -1,7 +1,8 @@
 ---
 layout: project
 title: Project 1
-category: projects
+category: project
+permalink: /projects/project1.html
 ---
 
 Hi 

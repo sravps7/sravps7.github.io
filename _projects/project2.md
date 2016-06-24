@@ -1,8 +1,9 @@
 ---
 layout: project
 title: Project 2
-category: projects
+category: project
+permalink: /projects/project2.html
 ---
 
-Hi
+Hivivnfviofvnfuvfbvuibv
 huuodsosfsobfupv

@@ -4,11 +4,12 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /:categories/:title
-#collections:
-#  projects:       
-#  permalink:      /:categories/:title
-#  output:         True
-   
+
+collections:
+  projects:
+    output: true       
+    permalink: /projects/:path
+
 
 
 # Setup
@@ -21,7 +22,11 @@ author:
   name:           'Sravan Patchala'
   url:            
 
-paginate:         5
+# paginate:         5
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
 # Custom vars
 version:          2.1.0

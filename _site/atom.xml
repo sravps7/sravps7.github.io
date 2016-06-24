@@ -4,7 +4,7 @@
  <title>Sravan Patchala</title>
  <link href="https://sravps7.github.io//atom.xml" rel="self"/>
  <link href="https://sravps7.github.io//"/>
- <updated>2016-06-24T16:36:15+05:30</updated>
+ <updated>2016-06-24T18:24:40+05:30</updated>
  <id>https://sravps7.github.io/</id>
  <author>
    <name>Sravan Patchala</name>
@@ -192,6 +192,23 @@
  </entry>
  
 
+ 
+ <entry>
+   <title>Project 1</title>
+   <link href="https://sravps7.github.io//projects/project1.html"/>
+   <id>https://sravps7.github.io/</id>
+   <content type="html">&lt;p&gt;Hi &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project 2</title>
+   <link href="https://sravps7.github.io//projects/project2.html"/>
+   <id>https://sravps7.github.io/</id>
+   <content type="html">&lt;p&gt;Hivivnfviofvnfuvfbvuibv
+huuodsosfsobfupv&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
