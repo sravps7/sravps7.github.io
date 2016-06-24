@@ -4,10 +4,10 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /:categories/:title
-collections:
-  projects:       
-  permalink:      /:categories/:title
-  output:         True
+#collections:
+#  projects:       
+#  permalink:      /:categories/:title
+#  output:         True
    
 
 
