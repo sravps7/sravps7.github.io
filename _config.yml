@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Permalinks
 #permalink:        /:categories/:title
-permalink:  pretty
+permalink:  none
 
 collections:
   projects:
