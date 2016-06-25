@@ -4,8 +4,8 @@ title: Home
 ---
 	
 <p class="message">
-  Hey there! Nice to see you landing up on my website. Carry on and be my guest! I might brag a bit about myself. But trust me, I would not if I were not worthy.
-</p>
+  Hey there! Nice to see you landing up on my website. Carry on and be my guest!
+</p>	
 
 ###  About Me
 
@@ -21,7 +21,7 @@ Apart from engineering and academics, I am very passionate about football as wel
 
 ### Projects
 
-I have done quite a few projects in my stay at IIT Bombay. Have a look at the projects section and feel free to give me your feedback on them. The list will keep getting updated as and when I am ready with the documentation of the project.
+I have done quite a few projects in my stay at IIT Bombay. Have a look at the Projects section and feel free to give me your feedback on them. The list will keep getting updated as and when I am ready with the documentation of the project.
 
 ### Contact Me
 
@@ -29,4 +29,4 @@ Liked my website? Have some suggestions to give?
 
 Or want to get in touch?
 
-Head into the Contact Me section!
+Feel free to reach out to me! I would try my best to respond to you as soon as possible.
