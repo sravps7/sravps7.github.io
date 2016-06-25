@@ -3,7 +3,8 @@ markdown: kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        /:categories/:title
+#permalink:        /:categories/:title
+permalink:  pretty
 
 collections:
   projects:
