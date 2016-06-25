@@ -1,8 +1,7 @@
 ---
 layout: project
-title: Project 1
+title: 
 category: project
 permalink: /projects/project1.html
 ---
 
-Hi 

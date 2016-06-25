@@ -15,6 +15,12 @@
             min-width: 100%;
             min-height: 100%;
             }
+            .imgContainer{
+                float:left;
+                padding: 10px;
+                padding-bottom: :20px;
+
+              }
         </style>
     </head>
 </html>
@@ -50,8 +56,28 @@
         {% endif %}
       {% endfor %}
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-    </nav>
+      </nav>
+    <div>
+      <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
+    
+    <div class="imgContainer">
+    <a href="https://github.com/sravps7">
+      <img src="/public/github.png" alt="" class="round" style="width:35px;height:35px;border:20;">
+    </a>
+    </div>
+    <div class="imgContainer">
+    <a href="https://in.linkedin.com/in/sravan-patchala-5a0572104">
+      <img src="/public/linkedin.png" alt="" class="round" style="width:35px;height:35px;border:20;">
+    </a>
+    </div>
+    <div class="imgContainer">
+    <a href="https://www.facebook.com/sravan.patchala">
+      <img src="/public/facebook.png" alt="" class="round" style="width:35px;height:35px;border:20;">
+    </a>
+    </div>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-  </div>
+    
+
+</div>
 </div>
