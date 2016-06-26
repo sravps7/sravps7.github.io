@@ -5,5 +5,6 @@ title: Blog
 
 This is my blog!
 
-Stay Tuned! 	
+Although I am a techhincally inclined person, I do like to put down my thoughts quite regularly. You wll find blog posts here on all types of things under the sky. Feel free to go through them!
+ 	
 	
