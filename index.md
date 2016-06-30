@@ -25,12 +25,9 @@ I have done quite a few projects in my stay at IIT Bombay. Have a look at the Pr
 
 ### Contact Me
 
-Liked my website? Have some suggestions to give? 
-
-Or want to get in touch?
+Liked my website? Have some suggestions to give? Or want to get in touch?
 
 Feel free to reach out to me! I would try my best to respond to you as soon as possible.
+	
+The best way to contact me is to <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">mail me</a>. I usually reply pretty quicky on email.
 
-The best way to contact me would be mailing me on **sravps7@gmail.com**. I reply pretty quickly on mails.
-
-<a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=youremail@gmail.com&body=my-text">The best way to contact me is to mail me.</a>
