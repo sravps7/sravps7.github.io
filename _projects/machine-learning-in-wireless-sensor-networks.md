@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Wireless Sensor Network
+title: Machine Learning in Wireless Sensor Networks
 category: project
 permalink: /projects/machine-learning-in-wireless-sensor-networks.html
 ---
