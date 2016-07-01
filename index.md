@@ -21,6 +21,10 @@ I am also a Mentor at the Department Academic Mentorship Programme at the Electr
 
 Apart from engineering and academics, I am very passionate about football as well. Also, I am an amateur violin player.
 
+### Blog
+
+I am also interested in maintaining a blog. Do give it a read in the Blog section.
+
 ### Projects
 
 I have done quite a few projects in my stay at IIT Bombay. Have a look at the Projects section and feel free to give me your feedback on them. The list will keep getting updated as and when I am ready with the documentation of the project.
