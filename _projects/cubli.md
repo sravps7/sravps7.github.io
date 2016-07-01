@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cubli
+title: Cubli- A self balancing bot
 category: project
 permalink: /projects/cubli.html
 ---
