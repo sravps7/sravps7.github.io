@@ -3,6 +3,6 @@ layout: page
 title: Projects
 ---
 
-Here I will be writing about my projects. 
+These are the academic and extracurricular projects that I have done during the course of my two years at IIT Bombay. 
 
-Stay Tuned! 	
+Do go through them and let me know of your opinion.

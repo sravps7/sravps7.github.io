@@ -1,4 +1,4 @@
----
+	---
 layout: default
 title: Home
 ---
@@ -17,6 +17,8 @@ Coming to my academic standing, I am a Third year Electrical Engineering Undergr
  
 I am very interested in learning new things related to engineering. I have particular interest in Robotics. I have been associated with the [Robotics Club of IIT Bombay]( https://stab-iitb.org/robotics-club/ ) right from my freshman year. I am currently the Manager of the Club. 
 
+I am also a Mentor at the Department Academic Mentorship Programme at the Electrical Enegineering Department ( [EE-DAMP]( https://dampeeiitb.wordpress.com/ ) ) where I help my juniors in adjusting to the academic and social life at the institute.
+
 Apart from engineering and academics, I am very passionate about football as well. Also, I am an amateur violin player.
 
 ### Projects
@@ -27,7 +29,7 @@ I have done quite a few projects in my stay at IIT Bombay. Have a look at the Pr
 
 Liked my website? Have some suggestions to give? Or want to get in touch?
 
-Feel free to reach out to me! I would try my best to respond to you as soon as possible.
+Feel free to reach out to me! I would be very happy and would try my best to respond to you as soon as possible.
 	
 The best way to contact me is to <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">mail me</a>. I usually reply pretty quicky on email.
 

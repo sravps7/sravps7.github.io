@@ -35,6 +35,3 @@ These are the notable courses that I have done in my two years at IIT Bombay.
 * Machine Learning ( Coursera- Stanford University)
 * Economics
 * Professional Ethics
-
-
-Stay Tuned! 	
