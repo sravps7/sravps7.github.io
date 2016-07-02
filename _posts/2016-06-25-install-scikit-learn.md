@@ -28,7 +28,7 @@ To check for the version of Python on your device using either of the following 
 
 If either of them are not of a compatible version, then follow this link [here]( http://askubuntu.com/questions/101591/how-do-i-install-python-2-7-2-on-ubuntu/101595#101595 ) to upgrade.
 
-**Similarly, make sure your NumPy version is greater than or equal to 1.6.1 and your SciPy is greater than or equal to 0.9.** 
+**Similarly, make sure your NumPy version is greater than or equal to 1.6.1 and your SciPy version is greater than or equal to 0.9.** 
 
 Then all you have to do is run the following command:
 

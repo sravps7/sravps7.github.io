@@ -11,7 +11,7 @@ title: Home
 
 Hoping you are curious to know about me, here we go!
 
-I am an engineering student staying in a relatively calm part of the busy city of Mumbai, India. I like to spend time with my close ones (that includes non-living things like my laptop).
+I am an engineering student staying in a relatively calm part of the busy city of Mumbai, India. I like to spend time with my close ones (that also includes non-living things like my laptop).
 
 Coming to my academic standing, I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology-Bombay, India. I am pursuing a Dual Degree (B.Tech + M.Tech) in the Electrical department with specialisation in Communication and Signal Processing.
  
@@ -33,7 +33,7 @@ I have done quite a few projects in my stay at IIT Bombay. Have a look at the Pr
 
 Liked my website? Have some suggestions to give? Or want to get in touch?
 
-Feel free to reach out to me! I would be very happy and would try my best to respond to you as soon as possible.
+Feel free to reach out! I would be very happy and would try my best to respond to you as soon as possible.
 	
 The best way to contact me is to <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">mail me</a>. I usually reply pretty quicky on email.
 

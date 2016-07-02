@@ -12,17 +12,19 @@ These are the notable courses that I have done in my two years at IIT Bombay.
 * Electrical Devices and Circuits
 * Network Theory
 * Analog Circuits
-* Digital Circuits
+* Digital Systems
 * Signals and Systems
 * Electrical Machines and Power Electronics
 * Electronic Devices Lab
 * Analog Lab
-* Digital Lab
-
+* Digital Circuits Lab
+* Machines Lab
 
 ### Other Core Courses
 
 * Data Analysis and Interpretation
+* Computer Programming and Utilisation
+* Engineering Graphics and Drawing
 * Calculus
 * Linear Algebra
 * Matrix Computations
@@ -32,6 +34,6 @@ These are the notable courses that I have done in my two years at IIT Bombay.
 
 ### Other Courses
 
-* Machine Learning ( Coursera- Stanford University)
+* Machine Learning ( Coursera- Stanford University )
 * Economics
 * Professional Ethics
