@@ -1,3 +1,3 @@
 # sravps7.github.io
 
-This is my personal homepage!
+This is my personal website!
