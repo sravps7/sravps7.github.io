@@ -6,11 +6,6 @@ category: project
 permalink: /projects/cubli.html
 ---
 
-
-
-
-----
-
 This project was done as part of the Institute Techincal Summer Projects which happen for freshmen in IIT Bombay at the end of their first year.
 
  ![Cubli]({{ site.url }}/public/images/cubli.png )
