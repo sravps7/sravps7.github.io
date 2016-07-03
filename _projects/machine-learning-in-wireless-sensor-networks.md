@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Machine Learning in Wireless Sensor Networks
+description: Applying Machine learning to reduce the energy consumption in Wireless Sensor Networks 
 category: project
 permalink: /projects/machine-learning-in-wireless-sensor-networks.html
 ---

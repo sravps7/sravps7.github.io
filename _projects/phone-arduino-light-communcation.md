@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Phone to Arduino Communication using light
+description: Used the torchlight of the phone to send data to an Arduino
 category: project
 permalink: /projects/phone-arduino-light-communcation.html
 ---
