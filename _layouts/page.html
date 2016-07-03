@@ -15,6 +15,7 @@ layout: default
             		<small>{{ post.date | date_to_string }}</small>
           		</a>
         	</h3>
+          <hr>
     	</li>
     {% endfor %}
   </ul>
@@ -28,7 +29,12 @@ layout: default
               <a href="{{ project.url }}">
                 {{ project.title }}
               </a>
+
           </h3>
+          <h4>
+            {{ project.description }} 
+          </h4>
+          <hr>
       </li>
     {% endfor %}
   </ul>

@@ -1,6 +1,7 @@
 ---
 layout: project
-title: Cubli- A self balancing bot
+title: Cubli
+description: A self balancing bot made during the summers of my freshman year
 category: project
 permalink: /projects/cubli.html
 ---
