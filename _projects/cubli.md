@@ -7,7 +7,7 @@ permalink: /projects/cubli.html
 ---
 
 
- ![Cugfgfbli]({{ site.url }}/public/cubli.png )
+ ![Cugfgfbli]({{ site.url }}/public/images/cubli.png )
 
 ----
 
