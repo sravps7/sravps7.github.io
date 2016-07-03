@@ -1,7 +1,7 @@
-`---
+---
 layout: project
 title: Library Book Barcode Scanner
-description: A bot for maintaining a bookshelf in a library.
+description: A bot that helps in maintaining the database of books in a library
 category: project
 permalink: /projects/library-book-barcode-scanner.html
 ---
