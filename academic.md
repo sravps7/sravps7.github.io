@@ -5,6 +5,8 @@ title: Academic
 
 This is my academics page having details of my education!
 
+[Here]() is my updated Resume.
+
 ----
 
 I have done my schooling in quite some schools in Mumbai, Pune (located in India) and also in Manchester and Brighton (located in England).
