@@ -14,4 +14,4 @@ This blinking was read by IR LEDs (yes, you read it right!!). We had two LEDs pl
 
 The potential differences across these LEDS was then sent to an Arduino where it was decoded to get back the string. 
 
-We were able to adjust the speeds of transmission using the app. The maximum speed we could reach was around 8 bits per second. If transmission of only numbers was considered, we were able to increase the speed of transmission by changing the encoding and decodeing procedure. 
+We were able to adjust the speeds of transmission using the app. The maximum speed we could reach was around 8 bits per second. If transmission of only numbers was considered, we were able to increase the speed of transmission by changing the encoding and decoding procedure. 
