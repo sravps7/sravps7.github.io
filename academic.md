@@ -17,11 +17,11 @@ I then completed my Junior College at the Pace Junior Science College, Powai, Mu
 
 ----
 
-This was followed by me getting a rank of 433 out of 1.5 lakh students in the prestigious Joint Entrance Exam (JEE Advanced) for Engineering. I was duly admitted into the Electrical Engineering department at the Indian Institute of Technology, Bombay (IIT B). 
+This was followed by me getting a rank of 433 out of 150,000 students in the prestigious Joint Entrance Exam (JEE) Advanced for Engineering and a rank of 639 out of around 1,400,000 students in JEE Mains. I was duly admitted into the Electrical Engineering department at the Indian Institute of Technology, Bombay (IIT B). 
 
 These are the notable courses that I have done in my two years at IIT Bombay. 
 
-### Electrical Core Courses
+### Electrical Engineering
 
 * Electrical Devices and Circuits
 * Network Theory
@@ -29,26 +29,29 @@ These are the notable courses that I have done in my two years at IIT Bombay.
 * Digital Systems
 * Signals and Systems
 * Electrical Machines and Power Electronics
-* Electronic Devices Lab
-* Analog Lab
-* Digital Circuits Lab
-* Machines Lab
+* Communication Systems
+* Electromagnetic waves
+* Microprocessors
 
-### Other Core Courses
+### Mathematics
 
-* Data Analysis and Interpretation
-* Computer Programming and Utilisation
-* Engineering Graphics and Drawing
 * Calculus
 * Linear Algebra
 * Matrix Computations
 * Complex Analysis
+* Ordinary Differential Equations
 * Partial Differential Equations
-
+* Optimisation Models
+* Data Analysis and Interpretation
+* Probability and Random Processes
 
 ### Other Courses
 
-* Machine Learning (Coursera- Stanford University)
-* Game Theory (Coursera- Stanford University)
+* Fundamentals of Digital Image Processing
+* Machine Learning
+* Game Theory
 * Economics
 * Professional Ethics
+* Philosophy
+* Computer Programming and Utilisation
+* Engineering Graphics and Drawing
