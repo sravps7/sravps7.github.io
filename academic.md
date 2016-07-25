@@ -5,8 +5,7 @@ title: Academic
 
 This is my academics page having details of my education!
 
-[Here]({{ site.url }}public/cv.pdf) is my updated Resume.
-<a href="{{ site.url }}public/cv.pdf" target="_blank">Link</a>
+[Here]({{ site.url }}public/cv.pdf) is my CV.
 ----
 
 I have done my schooling in quite some schools in Mumbai, Pune (located in India) and also in Manchester and Brighton (located in England).
