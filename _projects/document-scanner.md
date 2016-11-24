@@ -14,7 +14,7 @@ We successfully reconstructed a document by taking multiple overlapping images o
 
  ![Original]({{ site.url }}/public/images/document_scanner/original.jpg)
 
- ![Reconstructed]({{ site.url }}/public/images/document_scanner/original.jpg)
+ ![Reconstructed]({{ site.url }}/public/images/document_scanner/reconstructed.jpg)
 
 
 
