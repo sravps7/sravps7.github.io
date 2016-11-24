@@ -11,12 +11,13 @@ We implemented a [paper](https://stacks.stanford.edu/file/druid:bf950qp8995/Badl
 
 We successfully reconstructed a document by taking multiple overlapping images of it. This procedure is used when the size of the document to be scanned is very large to fit in one image without comprmising on the resolution.
 
+#### Original
 
  ![Original]({{ site.url }}/public/images/document_scanner/original.jpg)
 
+#### Reconstructed
+
  ![Reconstructed]({{ site.url }}/public/images/document_scanner/reconstructed.png)
-
-
 
 
 The images were aligned after calculating a homography matrix for each image and were then stiched together using a slightly modified standard stiching technique. Post-processing steps included Gain compensation (to equalise the intensities of all the constituent images) and multi-band blending (to remove the prominent edges left over even after Gain compensation).
