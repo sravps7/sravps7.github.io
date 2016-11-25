@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Document Scanner
-description: Reconstruction of a document by stiching overlapping images 
+description: Reconstruction of a document by stiching images 
 category: project
 permalink: /projects/document_scanner.html
 ---
@@ -9,7 +9,7 @@ permalink: /projects/document_scanner.html
 This project was done as a course project of the Digital Image Processing course in a team of three.
 We implemented a [paper](https://stacks.stanford.edu/file/druid:bf950qp8995/Badlani_Akinola_Li.pdf) of Stanford university.
 
-We successfully reconstructed a document by taking multiple overlapping images of it. This procedure is used when the size of the document to be scanned is very large to fit in one image without comprmising on the resolution.
+We successfully reconstructed a document by taking multiple overlapping images of it. This procedure is used when the size of the document to be scanned is very large to fit in one image without compromising on the resolution.
 
 #### Original
 
