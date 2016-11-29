@@ -15,7 +15,7 @@ I am an engineering student staying in a relatively calm part of the busy city o
 
 Coming to my academic standing, I am a Third year Electrical Engineering Undergraduate at the Indian Institute of Technology-Bombay, India. I am pursuing a Dual Degree (B.Tech + M.Tech) in the Electrical department with specialisation in Communication and Signal Processing.
  
-I am very interested in learning new things related to engineering. I have particular interest in Robotics. I have been associated with the [Robotics Club of IIT Bombay]( https://stab-iitb.org/robotics-club/ ) right from my freshman year. I am currently the Manager of the Club. 
+I am very passionate about math intensive tasks like probability, optimisation, machine learning and also signal processing. I am very interested in learning new things related to engineering. I have particular interest in Robotics. I have been associated with the [Robotics Club of IIT Bombay]( https://stab-iitb.org/robotics-club/ ) right from my freshman year. I am currently the Manager of the Club. 
 
 I am also a Student Mentor at the Department Academic Mentorship Programme at the Electrical Engineering Department ( [EE-DAMP]( https://dampeeiitb.wordpress.com/ ) ) where I help my juniors in adjusting to the academic and social life at the institute.
 
