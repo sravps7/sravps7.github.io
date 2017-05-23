@@ -19,7 +19,11 @@ I then completed my Junior College at the Pace Junior Science College, Powai, Mu
 
 This was followed by me getting a rank of 433 out of 150,000 students in the prestigious Joint Entrance Exam (JEE) Advanced for Engineering and a rank of 639 out of around 1,400,000 students in JEE Mains. I was duly admitted into the Electrical Engineering department at the Indian Institute of Technology, Bombay (IIT-B). 
 
+<<<<<<< HEAD
+These are the notable courses that I have done in my three years at IIT Bombay. 
+=======
 These are the notable courses that I have done in my two and half years at IIT Bombay. 
+>>>>>>> 092f872750cef0f80d0b01558af6cb314f75af08
 
 ### Electrical Engineering
 
@@ -32,6 +36,16 @@ These are the notable courses that I have done in my two and half years at IIT B
 * Communication Systems
 * Electromagnetic waves
 * Microprocessors
+<<<<<<< HEAD
+* Control Systems
+* Digital Communications
+* Power Systems
+* Digital Signal Processing
+* Introduction to Number Theory and Cryptography
+* Markov Chains and Queuing Systems
+* Electronic Design Lab 
+=======
+>>>>>>> 092f872750cef0f80d0b01558af6cb314f75af08
 
 ### Mathematics
 
