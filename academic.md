@@ -5,7 +5,7 @@ title: Academic
 
 This is my academics page having details of my education!
 
-[Here]({{ site.url }}public/cv.pdf) is my CV.
+[Here]({{ site.url }}public/resume.pdf) is my resume.
 
 ----
 
@@ -18,47 +18,3 @@ I then completed my Junior College at the Pace Junior Science College, Powai, Mu
 ----
 
 This was followed by me getting a rank of 433 out of 150,000 students in the prestigious Joint Entrance Exam (JEE) Advanced for Engineering and a rank of 639 out of around 1,400,000 students in JEE Mains. I was duly admitted into the Electrical Engineering department at the Indian Institute of Technology, Bombay (IIT-B). 
-
-These are the notable courses that I have done in my three years at IIT Bombay. 
-
-### Electrical Engineering
-
-* Electrical Devices and Circuits
-* Network Theory
-* Analog Circuits
-* Digital Systems
-* Signals and Systems
-* Electrical Machines and Power Electronics
-* Communication Systems
-* Electromagnetic waves
-* Microprocessors
-* Control Systems
-* Digital Communications
-* Power Systems
-* Digital Signal Processing
-* Introduction to Number Theory and Cryptography
-* Markov Chains and Queuing Systems
-* Electronic Design Lab 
-
-### Mathematics
-
-* Calculus
-* Linear Algebra
-* Matrix Computations
-* Complex Analysis
-* Ordinary Differential Equations
-* Partial Differential Equations
-* Optimisation Models
-* Data Analysis and Interpretation
-* Probability and Random Processes
-
-### Other Courses
-
-* Fundamentals of Digital Image Processing
-* Machine Learning
-* Game Theory
-* Economics
-* Professional Ethics
-* Philosophy
-* Computer Programming and Utilisation
-* Engineering Graphics and Drawing
