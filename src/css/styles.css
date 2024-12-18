@@ -1,0 +1,107 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif; /* Use a clean sans-serif font */
+    line-height: 1.6; /* Improve readability */
+    background-color: #E5E4E2; /* Platinum background for contrast */
+    color: #070707; /* Black text for readability */
+    padding: 20px; /* Add some padding around the content */
+}
+
+/* Navbar styles */
+.navbar {
+    display: flex;
+    justify-content: center; /* Center the navbar items */
+    align-items: center; /* Center items vertically */
+    background-color: #070707; /* Black color for the navbar */
+    padding: 15px 20px; /* Padding for the navbar */
+    border-bottom: 2px solid #A9A8A7; /* Light gray border at the bottom */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.navbar a {
+    color: #E5E4E2; /* Platinum text for contrast */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text for emphasis */
+    padding: 10px 15px; /* Padding for better touch targets */
+    border-radius: 5px; /* Rounded corners for links */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effect */
+}
+
+.navbar a:hover {
+    color: #070707; /* Change to black on hover */
+    background-color: #A9A8A7; /* Change background to medium gray on hover */
+}
+
+.navbar a.active {
+    color: #070707; /* Black for active link */
+    background-color: #C0C0C0; /* Light gray background for active link */
+    border-radius: 5px; /* Rounded corners for active link */
+}
+
+/* Page title styles */
+.page-title {
+    text-align: center; /* Center the page title */
+    margin: 20px 0; /* Margin above and below the title */
+    color: #070707; /* Black color for the title */
+    font-size: 2.5em; /* Larger font size for the title */
+}
+
+/* Main content styles */
+main {
+    margin: 20px 0; /* Margin around the main content */
+    padding: 20px; /* Padding inside the main content */
+    background-color: white; /* White background for the main content */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Headings */
+h2, h3 {
+    margin-bottom: 10px; /* Space below headings */
+    color: #070707; /* Black color for headings */
+    text-align: left; /* Left align headings */
+}
+
+h2 {
+    font-size: 2em; /* Medium font size for subheadings */
+    color: #4B4B4B; /* Dark gray for subheadings */
+}
+
+h3 {
+    font-size: 1.5em; /* Smaller font size for smaller headings */
+    color: #A9A8A7; /* Medium gray for smaller headings */
+}
+
+/* Footer styles */
+.footer {
+    text-align: center; /* Center the footer text */
+    margin-top: 20px; /* Space above the footer */
+    padding: 10px 0; /* Padding inside the footer */
+    font-size: 0.9em; /* Smaller font size for footer */
+    color: #070707; /* Black for footer text */
+}
+
+/* Additional styles for sections */
+.section {
+    background-color: #C0C0C0; /* Light gray for section backgrounds */
+    padding: 15px; /* Padding inside sections */
+    border-radius: 5px; /* Rounded corners */
+    margin: 10px 0; /* Margin between sections */
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column; /* Stack navbar items on small screens */
+    }
+
+    .navbar a {
+        padding: 10px 0; /* Add padding for touch targets */
+    }
+}
