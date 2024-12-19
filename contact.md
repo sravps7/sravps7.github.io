@@ -4,24 +4,12 @@ title: Contact Me
 ---
 # Contact Me
 
-Liked my website? Have some suggestions to give? Or want to get in touch?
-
 Feel free to reach out! I would be very happy and would try my best to respond to you as soon as possible.
 	
-The best way to contact me is to <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">mail me</a>. I usually reply pretty quicky on email.
+The best way to contact me is to <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">mail me</a>. I usually reply pretty quicky on email. 
 
-Otherwise, you could contact me on [Facebook]( https://www.facebook.com/sravan.patchala ). You can stalk me if you want!	
+To schedule a Google Meet, feel free to find a time <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">here</a>.
 
-Also, do go through my [LinkedIn]( https://in.linkedin.com/in/sravan-patchala-5a0572104 ), [GitHub]( https://github.com/sravps7 ) and [Quora]( https://www.quora.com/profile/Sravan-Patchala ) profiles to know more about me.
-
-Not satisfied? 
-
-Here is my address:
-
-##### Room No 192, Hostel 3,
-
-##### Indian Institute of Technology- Bombay,
-
-##### Powai, Mumbai,
-
-##### India-400 076.
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1Ya4UdysjZa2_K7v3tDjBwgrj4vu-i6hyhHC1TmBxWRD_qb73kqMcvMdStMNINNj4W1i5Tbo7P?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
