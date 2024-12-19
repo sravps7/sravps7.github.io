@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "eleventy --serve --port 3000",
     "build": "eleventy && copyfiles -u 1 src/css/* _site/"
   },
   "keywords": [],
