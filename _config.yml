@@ -1,0 +1,37 @@
+# Dependencies
+markdown: kramdown
+highlighter:      rouge
+
+# Permalinks
+#permalink:        /:categories/:title
+permalink:  none
+
+collections:
+  projects:
+    output: true       
+    permalink: /projects/:path
+
+
+
+# Setup
+title:            Sravan Patchala
+tagline:          ''
+description:      'My Digital Footprint'
+url:              https://sravps7.github.io/
+baseurl:          /
+author:
+  name:           'Sravan Patchala'
+  url:            
+
+# paginate:         5
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+version:          1.0.2
+
+
+
+github:
+  repo:           https://github.com/sravps7/sravps7.github.io
