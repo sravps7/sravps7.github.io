@@ -4,12 +4,26 @@ title: Contact Me
 ---
 # Contact Me
 
-Feel free to reach out! I would be very happy and would try my best to respond to you as soon as possible.
+Feel free to reach out! I would be happy and would try my best to respond to you as soon as possible.
 	
-The best way to contact me is to <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">mail me</a>. I usually reply pretty quicky on email. 
+The best way to contact me is to mail me at x@gmail.com (where x.github.io is my website). I usually reply pretty quicky on email. 
 
 To schedule a Google Meet, feel free to find a time below.
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/AcZssZ18P5QHB_AzGprkFI2DX_pGSAJsycJkdlnV8v8=?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/AcZssZ18P5QHB_AzGprkFI2DX_pGSAJsycJkdlnV8v8=?gv=true',
+      color: '#070707',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
 <!-- end Google Calendar Appointment Scheduling -->

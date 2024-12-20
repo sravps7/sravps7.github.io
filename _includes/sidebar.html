@@ -51,7 +51,6 @@
 
       <center><p class="lead">{{ site.description }}</p> </center>
     </div>
-    <center><p class="lead">Enter text here</p> </center>
       
 <hr>
     <nav class="sidebar-nav">
@@ -61,7 +60,7 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><center>Home</center></a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><center>About</center></a>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -77,19 +76,7 @@
       </nav>
     <div>
       <p><center>Powered By Jekyll</center></p>
-    </div>
-
-
-    <div class="imgContainer">
-    	<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sravps7@gmail.com&body=my-text">
-    		<img src="/public/images/gmail.jpg" class="round" style="width:35px;height:35px;">
-    	</a>
-    </div>
-    
-    <div class="imgContainer">
-    	<a href="https://in.linkedin.com/in/sravan-patchala">
-    		<img src="/public/images/linkedin.png" class="round" style="width:35px;height:35px;">
-    	</a>
+      <p><center>Last Updated: 12/20/24</center></p>
     </div>
 </div>
 </div>
