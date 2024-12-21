@@ -5,7 +5,7 @@ title: Contributions
 
 [Google Scholar](https://scholar.google.com/citations?user=ArjRR6YAAAAJ&hl=en), [Google Patents](https://patents.google.com/?inventor=Venkata+Prema+Sai+Sravan+Patchala)
 
-### Selected Publications
+### Publications
 \* denotes equal contributions
 - [Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks](https://ieeexplore.ieee.org/abstract/document/8737653) \
 Harshvardhan Tibrewal\*, **Sravan Patchala**\*, Manjesh K Hanawal, Sumit J Darak \
@@ -19,7 +19,7 @@ IEEE Transactions on Network and Service Management
 **Sravan Patchala**, Seung Hyun Lee, Changhee Joo, D Manjunath \
 2019 11th International Conference on Communication Systems & Networks (COMSNETS)
 
-### Selected Patents
+### Patents
 - [Apparatuses and methods for processing single instruction for image transformation from non-integral locations](https://patents.google.com/patent/US12008728B2/) \
 **Sravan Patchala**, Mithil Ramteke, Sridhar Kandimalla, Himanshu Pradeep Aswani \
 US12008728B2, TW202411933A, WO2024050187A1

@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Contact Me
+layout: page
+title: Contact
 ---
-# Contact Me
 
 Feel free to reach out! I would be happy and would try my best to respond to you as soon as possible.
 	

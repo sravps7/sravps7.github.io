@@ -60,9 +60,7 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><center>About</center></a>
-
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort: 'title' %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -70,13 +68,12 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-       <a class="sidebar-nav-item{% if page.url == {{site.baseurl}}contact.html %} active{% endif %}" href="{{ site.baseurl }}contact.html"><center>Contact Me<center></a>
 <hr>      
       <!--span class="sidebar-nav-item"><center>Currently Version {{ site.version }}</center></span-->
       </nav>
     <div>
       <p><center>Powered By Jekyll</center></p>
-      <p><center>Last Updated: 12/20/24</center></p>
+      <p><center>Last Updated: 12/21/24</center></p>
     </div>
 </div>
 </div>
