@@ -3,7 +3,6 @@ layout: post
 title: Future of Mobility
 category: blog
 ---
-# Navigating Mobility's Future: A Journey Through Germany and Italy
 
 I recently led a Global Study Trip to Germany and Italy to understand how traditional European automakers are responding to disruptive changes in mobility. While Silicon Valley pushes autonomous vehicle technology and China accelerates electric vehicle production, my goal was to see firsthand how Europe's automotive giants are adapting.
 
