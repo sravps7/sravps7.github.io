@@ -19,17 +19,27 @@ Successful transformation will require balancing technological advancement with 
 
 Lamborghini explained their gradual transition to electrification via hybrid models like the Revuelto and Temerario. They've grown from 424 to over 10,000 cars annually by carefully expanding product lines while preserving their brand essence. The company faces challenges with electrification as customers value the acoustic signature of their combustion engines.
 
+![Lamborghini]({{ site.url }}/public/images/future_of_mobility/lamborghini.jpeg)  
+
 ### Ferrari: Exclusivity Above All
 
 Ferrari positioned its brand similar to Hermès, emphasizing that purchasing power alone doesn't guarantee access to their coveted models. This approach allows a controlled pace toward new technologies while maintaining exclusivity.
+
+![Ferrari]({{ site.url }}/public/images/future_of_mobility/ferrari.jpeg)
 
 ### Dallara: Innovation Laboratory
 
 Dallara uses motorsport as a laboratory for innovation in carbon fiber, aerodynamics, and simulator technology. Their business model revolves around selling innovation to car manufacturers rather than selling cars directly. Operating from a small Italian town, they've nearly monopolized the racing car chassis market.
 
+![Dallara]({{ site.url }}/public/images/future_of_mobility/dallara.jpg)
+
+
 ### VCARB: Efficiency Under Constraints
 
 The Formula 1 team demonstrated how extreme constraints drive innovation. Their ability to produce entirely new cars with 10,000 unique parts each season showcases how limitations foster creativity and efficiency.
+
+![VCARB]({{ site.url }}/public/images/future_of_mobility/vcarb.jpeg)
+
 
 ## German Automotive Giants
 
@@ -37,9 +47,14 @@ The Formula 1 team demonstrated how extreme constraints drive innovation. Their 
 
 BMW demonstrated a pragmatic approach to electrification by adapting existing platforms rather than developing entirely new architectures. Their strategy focuses on "Freude" (joy) as central to their brand identity, with high-efficiency platforms that accommodate multiple powertrain options. BMW continues investing in hydrogen fuel cell technology alongside battery EVs, showing a multi-pathway approach to future mobility.
 
+![BMW]({{ site.url }}/public/images/future_of_mobility/bmw.jpeg)
+
+
 ### Mercedes-Benz: Reality Check for Ambitious Goals
 
 Mercedes-Benz developed a separate EV line (EQ) that has struggled financially. Despite billions invested in electrification, less than 1% of their sales come from fully electric vehicles. The company has faced challenging regulatory hurdles in obtaining approval for autonomous driving in Europe, while competitors in the US and China secured approvals more quickly.
+
+![Mercedes]({{ site.url }}/public/images/future_of_mobility/mercedes.jpeg)
 
 ### Audi: Manufacturing Philosophy
 
@@ -49,6 +64,12 @@ Audi's production systems balance automation and manual craftsmanship. Their ass
 
 Traton (Volkswagen's commercial vehicle division) provided decisive analysis against hydrogen in commercial transport while highlighting the economic advantages of electric trucks. They emphasized that lower operating costs create a compelling business case regardless of environmental considerations, though infrastructure remains the primary bottleneck.
 
+![Traton]({{ site.url }}/public/images/future_of_mobility/traton.jpeg)
+
+
 ## New Mobility Players
 
 FINN is reimagining vehicle ownership through flexible subscription models, while FlixBus created an asset-light approach to mass transit by partnering with local operators rather than owning fleets.
+
+![Flix]({{ site.url }}/public/images/future_of_mobility/flix.jpeg)
+![FINN]({{ site.url }}/public/images/future_of_mobility/finn.jpeg)
