@@ -14,9 +14,9 @@ What exactly is experience? Its defined as practical contact with and observatio
 
 AGI + Experiences = Personal Artificial Intelligence (PAI?)
 
-Today’s models are good at absorbing and analyzing language, hence the minimum viable product to prove the concept should simply be a recording device, which is precisely what (Limitless)[https://www.limitless.ai/] is doing.
+Today’s models are good at absorbing and analyzing language, hence the minimum viable product to prove the concept should simply be a recording device, which is precisely what [Limitless](https://www.limitless.ai/) is doing.
 
-Using content from the recording, we can train a system on the user's experiences. A potential implementation of the system is as follows, which is influenced by the (Neural Turing Machines)[https://arxiv.org/abs/1410.5401] paper that I read as part of my (CS375 class at Stanford)[https://cs375.stanford.edu/index.html].
+Using content from the recording, we can train a system on the user's experiences. A potential implementation of the system is as follows, which is influenced by the [Neural Turing Machines](https://arxiv.org/abs/1410.5401) paper that I read as part of my [CS375 class at Stanford](https://cs375.stanford.edu/index.html).
 
 ![paisystem]({{ site.url }}/public/images/paisystem.jpg)  
 
